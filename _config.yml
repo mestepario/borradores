@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
-description: Versiones
+title: Versiones de Borrador
+description: Control versiones
 github:
   is_project_page: false
