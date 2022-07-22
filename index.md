@@ -10,4 +10,4 @@ Aqui colgamos las diferentes versiones del documento que se elabora para mantene
 - [Borrador v.0.6](https://drive.google.com/drive/folders/1GLJjtS3PtaZVMuiAD_D-vDDeDZi35dB6?usp=sharing) (Diseño Eléctrico añadimos los planos unifilares <span style="color:orange">(DOING)</span>) --> (2022-07-11)
 - [Borrador v.0.7](https://drive.google.com/drive/folders/1YaID-CCwp6d10W2f7lXJPUVHVpx0w2u5?usp=sharing) (Resistividad del suelo, Métodos de Medición, Metodología, mejorado imágenes) --> (2022-07-19) 
 - [Borrador v.0.8](https://drive.google.com/drive/folders/1gDoCSQEJBr1FHLUMTWdk4ERpzsJ87tBV?usp=sharing) (Corregido diagramas, se añadió Notas de imágenes) --> (2022-07-20)
-- [Borrador v.0.9](https://drive.google.com/drive/folders/1gv1WV1yjNDIqp-ilBvGoUJTOYxNfezpK?usp=sharing) (Añadimos Planos como anexos A1, A2) 
+- [Borrador v.0.9](https://drive.google.com/drive/folders/1gv1WV1yjNDIqp-ilBvGoUJTOYxNfezpK?usp=sharing) (Añadimos Planos como anexos A1, A2) --> (2022-07-22)
