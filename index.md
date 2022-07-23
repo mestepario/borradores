@@ -12,4 +12,4 @@ Aqui colgamos las diferentes versiones del documento que se elabora para mantene
 - [Borrador v.0.8](https://drive.google.com/drive/folders/1gDoCSQEJBr1FHLUMTWdk4ERpzsJ87tBV?usp=sharing) (Corregido diagramas, se añadió Notas de imágenes) --> (2022-07-20)
 - [Borrador v.0.9](https://drive.google.com/drive/folders/1gv1WV1yjNDIqp-ilBvGoUJTOYxNfezpK?usp=sharing) (Añadimos Planos como anexos A1, A2) --> (2022-07-22)
 - [Borrador v.1.0](https://drive.google.com/drive/folders/1WD1olbIKMd1oUImSXvY8iF_pMxG1l1y5?usp=sharing) (Añadimos Anexo de simbología) --> (2022-07-22)
-- [Borrador v.1.1](https://drive.google.com/drive/folders/1bhNTbWTEpvu_FBqsch7_8HyAxGZF2T1T?usp=sharing) (Anexo Simología <span style="color:green">(DONE)</span>) --> (2022-07-22)
+- [Borrador v.1.1](https://drive.google.com/drive/folders/1bhNTbWTEpvu_FBqsch7_8HyAxGZF2T1T?usp=sharing) (Anexo Simbología <span style="color:green">(DONE)</span>) --> (2022-07-22)
