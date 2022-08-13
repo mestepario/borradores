@@ -14,4 +14,4 @@ Aqui colgamos las diferentes versiones del documento que se elabora para mantene
 - [Borrador v.1.0](https://drive.google.com/drive/folders/1WD1olbIKMd1oUImSXvY8iF_pMxG1l1y5?usp=sharing) (Añadimos Anexo de simbología) --> (2022-07-22)
 - [Borrador v.1.1](https://drive.google.com/drive/folders/1bhNTbWTEpvu_FBqsch7_8HyAxGZF2T1T?usp=sharing) (Anexo Simbología <span style="color:green">(DONE)</span>) --> (2022-07-22)
 - [Borrador v.1.2](https://drive.google.com/drive/folders/1T4S8BqLoNGQbTfst5EHA_v6Uzfacd1_H?usp=sharing) (Añadimos mediciones y algunos cálculos) --> (2022-08-01)
-- [Borrador v.1.3](https://drive.google.com/drive/folders/1QIYKnwchF1YLiB6oyi7rl15VC7kOd-Kh?usp=sharing) (Añadimos apatado de GEM y adaptamos el trabajo a normas del instituto) --> (2022-08-12)
+- [Borrador v.1.3](https://drive.google.com/drive/folders/1QIYKnwchF1YLiB6oyi7rl15VC7kOd-Kh?usp=sharing) (Añadimos apartado de GEM y adaptamos el trabajo a normas del instituto) --> (2022-08-12)
